@@ -1,0 +1,33 @@
+body{
+
+    background-color:aquamarine ;
+    color:black;
+    font-family:"cavea";
+
+
+    h1,p{
+        color:green ;
+
+    }
+    h2{
+color: brown;
+    }
+
+    
+    .img1{
+        width:1000px;
+        height:200px;
+        border-top-style: double;
+        border-width:10px;;
+        border-color:black ;
+        padding: 40px;
+        margin-left:auto;
+        margin-right:auto;
+
+    }
+}
+    
+    
+    
+    
+
